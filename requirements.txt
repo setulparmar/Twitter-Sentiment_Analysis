@@ -6,12 +6,9 @@ scikit-learn
 spacy
 streamlit
 tweepy
-string
 re
-time
 wordcloud
 textblob
-json
 statsmodels
 pickle
 nltk
