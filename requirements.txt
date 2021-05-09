@@ -13,7 +13,6 @@ wordcloud
 textblob
 json
 statsmodels
-sklearn
 pickle
 nltk
 csv
