@@ -134,8 +134,8 @@ emo_info = {
 
 }
 
-VOCABULARY_FILENAME = 'better_learned_vocabulary.joblib'
-MODEL_FILENAME = 'Sentiment-NB.pickle'
+#VOCABULARY_FILENAME = 'better_learned_vocabulary.joblib'
+#MODEL_FILENAME = 'Sentiment-NB.pickle'
 
 nltk.download('averaged_perceptron_tagger')
 ###############################################################################
