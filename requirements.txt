@@ -1,0 +1,9 @@
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+spacy
+streamlit
+tweepy
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-2.3.0/pt_core_news_sm-2.3.0.tar.gz
