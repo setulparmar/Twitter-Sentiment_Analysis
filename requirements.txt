@@ -9,7 +9,7 @@ tweepy
 wordcloud
 textblob
 statsmodels
-pickle
+pickle-mixin
 nltk
 seaborn
 https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-2.3.0/pt_core_news_sm-2.3.0.tar.gz
