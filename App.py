@@ -377,14 +377,15 @@ def spacy_tokenizer(tweet):
 ###############################################################################
 # Execution code.
 ###############################################################################
-def get_training_data():
+
+#def get_training_data():
     #df = pd.read_csv('Dataset.csv', sep=';')
-    DATASET_COLUMNS = ['target', 'ids', 'date', 'flag', 'user', 'tweet']
+    #DATASET_COLUMNS = ['target', 'ids', 'date', 'flag', 'user', 'tweet']
     
-    df= pd.read_csv('dataset1.csv',names=DATASET_COLUMNS,encoding='latin-1')
-    X = df['tweet']
-    y = df['target']
-    return df, train_test_split(X, y, test_size=0.3, random_state=42)
+    #df= pd.read_csv('dataset1.csv',names=DATASET_COLUMNS,encoding='latin-1')
+    #X = df['tweet']
+    #y = df['target']
+    #return df, train_test_split(X, y, test_size=0.3, random_state=42)
 
 
 def preprocess(textdata):
