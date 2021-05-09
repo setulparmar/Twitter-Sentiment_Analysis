@@ -6,13 +6,10 @@ scikit-learn
 spacy
 streamlit
 tweepy
-re
 wordcloud
 textblob
 statsmodels
 pickle
 nltk
-csv
-collections
 seaborn
 https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-2.3.0/pt_core_news_sm-2.3.0.tar.gz
